@@ -34,7 +34,6 @@ nav > ul > li > a {
   color: #ffffff;
   padding: 15px;
   font-size: 16px;
-  font-family: "Helvetica Neue";
 }
 .contact {
   background-color: #ffffff;
@@ -54,7 +53,6 @@ nav > ul > li > a {
 }
 .section-h3 {
   font-size: 28px;
-  font-family: "Helvetica Neue";
   padding: 10px;
 }
 .section-img1 {
@@ -66,7 +64,6 @@ nav > ul > li > a {
 .fact-p {
   font-size: 16px;
   color: #171717;
-  font-family: "Helvetica Neue";
   width: 951px;
   margin: auto;
   padding: 10px;
@@ -101,13 +98,11 @@ footer {
 .class-footer h3 {
   color: #ffffff;
   font-size: 32px;
-  font-family: "Helvetica Neue";
   padding: 5%;
 }
 .class-footer p {
   color: #ffffff;
   font-size: 16px;
-  font-family: "Helvetica Neue";
   width: 463px;
   padding: 5%;
 }
